@@ -21,8 +21,8 @@ If you want to learn more about creating good readme files then refer the follow
 
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
-[^1]: This is the first footnote.
+    [^1]: This is the first footnote.
 
-[^bignote]: Here's one with multiple paragraphs and code.
+    [^bignote]: Here's one with multiple paragraphs and code.
 
     Indent paragraphs to include them in the footnote.
