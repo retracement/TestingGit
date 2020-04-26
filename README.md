@@ -19,6 +19,15 @@ If you want to learn more about creating good readme files then refer the follow
 - [Visual Studio Code](https://github.com/Microsoft/vscode)
 - [Chakra Core](https://github.com/Microsoft/ChakraCore)
 
+:::mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+:::
+
+
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
     [^1]: This is the first footnote.
